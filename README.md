@@ -71,4 +71,4 @@ Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Notes
 
-This was a beginner level project I did to get comfortable with the sklearn pipeline — data loading, preprocessing, training and evaluation. Planning to try other algorithms on the different projects in the future.
+This was a beginner level project I did to get comfortable with the sklearn pipeline — data loading, preprocessing, training and evaluation. Planning to try other algorithms on the different projects in the future .
